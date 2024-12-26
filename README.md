@@ -1,4 +1,4 @@
-# This repo is an exercise an Operating Systems course
+# Exercise for my Operating Systems course
 
 This repo contains a script that takes in an input and generates a hash using
 the sha256 algorithm.
