@@ -1,0 +1,5 @@
+#!/bin/bash
+
+INPUT=$1
+
+echo -n "$INPUT" | sha256sum | head -c 64
